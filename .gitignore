@@ -66,6 +66,9 @@ docs/_build/
 # PyBuilder
 target/
 
+# 忽略data文件夹
+data/
+
 # IPython Notebook
 .ipynb_checkpoints
 
